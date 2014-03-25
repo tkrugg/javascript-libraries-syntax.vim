@@ -14,7 +14,8 @@ let s:libs = [
   \ 'angularui',
   \ 'requirejs',
   \ 'sugar',
-  \ 'jasmine'
+  \ 'jasmine',
+  \ 'chai'
   \ ]
 
 let s:path = expand('<sfile>:p:h')
